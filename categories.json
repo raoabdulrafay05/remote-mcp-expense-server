@@ -1,0 +1,352 @@
+{
+  "Personal": [
+    "Morning Routine",
+    "Exercise",
+    "Meditation",
+    "Reading",
+    "Journaling",
+    "Hobbies",
+    "Learning",
+    "Self-Care",
+    "Appointments",
+    "Shopping"
+  ],
+  "Work": [
+    "Meetings",
+    "Emails",
+    "Reports",
+    "Presentations",
+    "Coding / Development",
+    "Research",
+    "Team Communication",
+    "Client Calls",
+    "Documentation",
+    "Performance Review"
+  ],
+  "Finance": [
+    "Pay Bills",
+    "Track Expenses",
+    "Budget Planning",
+    "Investments",
+    "Tax Preparation",
+    "Banking",
+    "Loan Payments",
+    "Insurance",
+    "Donations"
+  ],
+  "Health": [
+    "Doctor Visits",
+    "Medication",
+    "Exercise",
+    "Meal Planning",
+    "Sleep Schedule",
+    "Water Intake",
+    "Mental Health",
+    "Supplements",
+    "Physical Therapy"
+  ],
+  "Home": [
+    "Cleaning",
+    "Laundry",
+    "Groceries",
+    "Repairs",
+    "Organization",
+    "Yard Work",
+    "Pet Care",
+    "Decorating",
+    "Maintenance"
+  ],
+  "Family": [
+    "Family Events",
+    "School Activities",
+    "Birthdays",
+    "Child Care",
+    "Elderly Care",
+    "Trips / Outings",
+    "Phone Calls",
+    "Dinner Planning",
+    "Help with Homework"
+  ],
+  "Education": [
+    "Assignments",
+    "Study Sessions",
+    "Exams",
+    "Online Courses",
+    "Workshops",
+    "Reading List",
+    "Projects",
+    "Group Study",
+    "Skill Development"
+  ],
+  "Travel": [
+    "Trip Planning",
+    "Booking Tickets",
+    "Packing",
+    "Itinerary",
+    "Budgeting for Trip",
+    "Transportation",
+    "Accommodation",
+    "Sightseeing",
+    "Travel Insurance"
+  ],
+  "Social": [
+    "Calls / Messages",
+    "Meet Friends",
+    "Events",
+    "Parties",
+    "Social Media Updates",
+    "Networking",
+    "Community Volunteering",
+    "Celebrations"
+  ],
+  "Errands": [
+    "Post Office",
+    "Grocery Store",
+    "Pharmacy",
+    "Dry Cleaning",
+    "Bank",
+    "Car Wash",
+    "Bill Payment",
+    "Pick-Up / Drop-Off"
+  ],
+  "Technology": [
+    "Device Maintenance",
+    "Backup Files",
+    "Update Software",
+    "Security Checks",
+    "Learn New Tools",
+    "Manage Cloud Storage",
+    "Organize Files",
+    "Troubleshooting"
+  ],
+  "Creativity": [
+    "Drawing",
+    "Painting",
+    "Writing",
+    "Photography",
+    "Music Practice",
+    "DIY Projects",
+    "Crafting",
+    "Video Editing",
+    "Design"
+  ],
+  "Goals": [
+    "Daily Goals",
+    "Weekly Goals",
+    "Monthly Goals",
+    "Yearly Goals",
+    "Career Goals",
+    "Personal Development Goals",
+    "Fitness Goals"
+  ],
+  "Maintenance": [
+    "Car Maintenance",
+    "Appliance Repairs",
+    "Computer Updates",
+    "Home Inspection",
+    "Cleaning Filters",
+    "Check Utilities"
+  ],
+  "Shopping": [
+    "Groceries",
+    "Clothing",
+    "Electronics",
+    "Home Supplies",
+    "Books",
+    "Gifts",
+    "Online Orders",
+    "Wishlist"
+  ],
+  "Events & Holidays": [
+    "Birthday Planning",
+    "Anniversaries",
+    "Holiday Preparation",
+    "Gift Buying",
+    "Decorations",
+    "Invitations",
+    "Event Logistics"
+  ],
+  "Career Development": [
+    "Certifications",
+    "Networking Events",
+    "Portfolio Updates",
+    "Resume / LinkedIn Updates",
+    "Mentorship",
+    "Workshops",
+    "Interviews"
+  ],
+  "Volunteering": [
+    "Community Service",
+    "Charity Events",
+    "Fundraising",
+    "Mentorship",
+    "Environmental Projects"
+  ],
+  "Spirituality": [
+    "Prayer",
+    "Meditation",
+    "Scripture Reading",
+    "Community Worship",
+    "Reflection",
+    "Mindfulness Practice"
+  ],
+  "Pets": [
+    "Feeding",
+    "Vet Visits",
+    "Grooming",
+    "Exercise / Walks",
+    "Vaccinations",
+    "Training",
+    "Supplies"
+  ],
+  "Vehicle": [
+    "Oil Change",
+    "Fuel Up",
+    "Tire Pressure",
+    "Insurance Renewal",
+    "Car Wash",
+    "Servicing",
+    "Registration Renewal"
+  ],
+  "Cleaning": [
+    "Kitchen Cleaning",
+    "Bathroom Cleaning",
+    "Vacuuming",
+    "Dusting",
+    "Organizing Shelves",
+    "Decluttering",
+    "Mopping"
+  ],
+  "Gardening": [
+    "Watering Plants",
+    "Weeding",
+    "Planting Seeds",
+    "Trimming",
+    "Fertilizing",
+    "Harvesting",
+    "Pest Control"
+  ],
+  "Cooking": [
+    "Meal Planning",
+    "Grocery Shopping",
+    "Meal Prep",
+    "Try New Recipes",
+    "Bake",
+    "Clean Kitchen"
+  ],
+  "Entertainment": [
+    "Watch Movie",
+    "Listen to Music",
+    "Play Games",
+    "Read Book",
+    "Outdoor Activities",
+    "Visit Museum",
+    "Attend Concert"
+  ],
+  "Communication": [
+    "Check Messages",
+    "Reply to Emails",
+    "Make Calls",
+    "Write Letters",
+    "Follow Up with Clients",
+    "Team Updates"
+  ],
+  "Home Improvement": [
+    "Fix Leaks",
+    "Paint Walls",
+    "Upgrade Furniture",
+    "Install Shelves",
+    "Replace Bulbs",
+    "Interior Design Ideas"
+  ],
+  "Fitness": [
+    "Cardio",
+    "Strength Training",
+    "Yoga",
+    "Stretching",
+    "Walk / Run",
+    "Track Progress",
+    "Rest Day"
+  ],
+  "Mindfulness": [
+    "Meditate",
+    "Deep Breathing",
+    "Reflect",
+    "Write Gratitude Journal",
+    "Digital Detox"
+  ],
+  "Learning": [
+    "Online Course",
+    "Language Practice",
+    "Coding Practice",
+    "Read Educational Book",
+    "Watch Tutorial",
+    "Attend Webinar"
+  ],
+  "Finance Management": [
+    "Update Budget Sheet",
+    "Review Bank Statements",
+    "Track Spending",
+    "Set Savings Goals",
+    "Invest Research"
+  ],
+  "Relationships": [
+    "Date Night",
+    "Call Parents",
+    "Catch Up with Friends",
+    "Plan Family Outing",
+    "Resolve Conflicts"
+  ],
+  "Professional Networking": [
+    "Connect on LinkedIn",
+    "Attend Industry Event",
+    "Send Thank You Notes",
+    "Reach Out to Mentors",
+    "Share Portfolio Update"
+  ],
+  "Mental Health": [
+    "Therapy Session",
+    "Journaling",
+    "Relaxation Time",
+    "Mindful Walk",
+    "Read Positive Material"
+  ],
+  "Household Management": [
+    "Pay Utilities",
+    "Grocery Restock",
+    "Schedule Cleaning",
+    "Declutter Rooms",
+    "Organize Documents"
+  ],
+  "Emergency Preparedness": [
+    "Check First Aid Kit",
+    "Test Smoke Alarms",
+    "Update Emergency Contacts",
+    "Review Insurance Policy",
+    "Restock Supplies"
+  ],
+  "Digital Organization": [
+    "Clean Desktop",
+    "Organize Files",
+    "Delete Old Emails",
+    "Backup Photos",
+    "Password Management"
+  ],
+  "Hobbies": [
+    "Photography",
+    "Sketching",
+    "Cooking",
+    "Gardening",
+    "Collecting",
+    "DIY Projects",
+    "Music Practice"
+  ],
+  "Self Improvement": [
+    "Read Self-Help Book",
+    "Set Goals",
+    "Reflect on Day",
+    "Track Habits",
+    "Plan Morning Routine"
+  ],
+  "Miscellaneous": []
+}
